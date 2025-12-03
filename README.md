@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Serhii
+<h1 align="center">Hi, I'm Serhii 👋</h1>
+
+<p align="center">
+  <strong>Senior PHP Developer • Backend Architecture • Clean Code Enthusiast</strong>
+</p>
 
 <!--
 **serhii-panferov/serhii-panferov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-**Full-stack PHP Developer (9+ years)** building stable, clean and maintainable backend systems.  
-I like crafting solid architecture, writing clear code, and constantly improving my technical skills.
+ ## 🧩 About Me
+ 
+I’m a backend-focused engineer who enjoys building systems that feel clean, predictable and maintainable.  
+PHP is my main domain, and I work daily with modern architecture patterns, testing, and API design.  
+My mindset is simple: **keep improving — one steady step at a time.**
 
 ---
 
@@ -27,7 +33,7 @@ I like crafting solid architecture, writing clear code, and constantly improving
 - PHP 7–8.x, OOP, SOLID, clean architecture  
 - Frameworks: CakePHP, Laravel  
 - REST APIs, authentication/authorization, server-side logic  
-- MySQL, Redis, databases  
+- MySQL, Redis, Memcached databases
 - Testing: PHPUnit / QUnitJS / TestCafe  
 - Docker, CI/CD, GitHub Actions, deployment practices  
 
@@ -46,13 +52,7 @@ I value:
 - Clean, readable and maintainable code  
 - Thoughtful architecture and good testing practices  
 - Continuous learning and improvement  
-- Balance between long-term planning and short, daily progress  
-
----
-
-## 📂 Notes & mini-projects  
-Feel free to browse my personal “learning journal” and small projects I work on.  
-They show how I experiment with architecture, tools, performance and new languages.
+- Balance between long-term planning and short, daily progress 
 
 ---
 
@@ -63,10 +63,5 @@ They show how I experiment with architecture, tools, performance and new languag
 - Explore new solutions, improve workflow and automation  
 - Contribute to open-source and learn from community  
 
----
-
-## 📬 Contact & Find Me  
-- GitHub: [github.com/serhii-panferov](https://github.com/serhii-panferov)  
-- Email: serhii.panferov@gmail.com
-- LinkedIn: https://www.linkedin.com/in/serhii-panferov/
+<p align="center">✨ Thanks for visiting — always building, always learning.</p>
 
