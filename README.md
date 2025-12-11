@@ -31,17 +31,17 @@ My mindset is simple: **keep improving — one steady step at a time.**
 
 ### 🐘 Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,composer,mysql,postgres,redis,docker"/>
+  <img src="https://skills.syvixor.com/api/icons?i=php,laravel,cakephp,yii,composer,mysql,redis,memcached,docker"/>
 </p>
 
 ### ⚙️ Frameworks & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cakephp,nginx,linux,bash,github,git,githubactions"/>
+  <img src="https://skills.syvixor.com/api/icons?i=rest,apache,linux,bash,github,git,githubactions,phpstorm"/>
 </p>
 
 ### 🧱 Learning & Expanding
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,react,reactnative,ts"/>
+  <img src="https://skills.syvixor.com/api/icons?i=go,react,reactnative,ts"/>
 </p>
 
 ---
@@ -85,7 +85,7 @@ I value:
 
 ## 🤝 Open for Collaboration
 
-If you’re working on PHP, Golang, or mobile app ideas — feel free to reach out.  
+If you’re working on PHP, Golang, or mobile app ideas - feel free to reach out.  
 I'm always open to contributing, learning, and helping build something meaningful.
 
 ---
