@@ -44,6 +44,24 @@ My mindset is simple: **keep improving — one steady step at a time.**
 
 ---
 
+## 📊 GitHub Stats (Dark Mode)
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=serhii-panferov&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&bg_color=00000000" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-panferov&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" 
+    height="170"
+  />
+
+</div>
+
+---
+
 ## 📘 My journey & learning style  
 I believe in **steady growth over time**.  
 I track my learning, experiments and ideas in a public [“daily-notes-2026”](https://github.com/serhii-panferov/daily-notes-2026)  repo to keep myself motivated and create a visible history of progress.
@@ -61,7 +79,22 @@ I value:
 - Build and polish small tools and utilities in Go  
 - Practice frontend fundamentals with React  
 - Explore new solutions, improve workflow and automation  
-- Contribute to open-source and learn from community  
+- Contribute to open-source and learn from community
+  
+---
+
+## 🤝 Open for Collaboration
+
+If you’re working on PHP, Golang, or mobile app ideas — feel free to reach out.  
+I'm always open to contributing, learning, and helping build something meaningful.
+
+---
+
+## 📬 Contact
+
+✉️ Email: serhii.panferov@gmail.com
+  
+---
 
 <p align="center">✨ Thanks for visiting — always building, always learning.</p>
 
