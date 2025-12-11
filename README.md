@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Serhii 👋</h1>
 
 <p align="center">
-  <strong>Senior PHP Developer • Backend Architecture • Clean Code Enthusiast</strong>
+  <strong> Full-stack PHP Engineer | CakePHP & Laravel | Golang Learner | React & React Native Explorer | Clean Code Enthusiast</strong>
 </p>
 
 <!--
@@ -27,6 +27,25 @@ My mindset is simple: **keep improving — one steady step at a time.**
 
 ---
 
+## 🛠 Tech Stack
+
+### 🐘 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,composer,mysql,postgres,redis,docker"/>
+</p>
+
+### ⚙️ Frameworks & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cakephp,nginx,linux,bash,github,git,githubactions"/>
+</p>
+
+### 🧱 Learning & Expanding
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,react,reactnative,ts"/>
+</p>
+
+---
+
 ## 🧰 What I work with
 
 ### 🖥️ Backend
@@ -42,25 +61,6 @@ My mindset is simple: **keep improving — one steady step at a time.**
 - React — basic frontend / interactive UI experiments  
 - General DevOps / tooling / automation  
 
----
-
-## 📊 GitHub Stats (Dark Mode)
-
-<div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=serhii-panferov&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&bg_color=00000000" 
-    height="170"
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-panferov&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" 
-    height="170"
-  />
-
-</div>
-
----
 
 ## 📘 My journey & learning style  
 I believe in **steady growth over time**.  
